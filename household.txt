@@ -2,3 +2,5 @@ soap
 powder
 paste
 vadgam
+brush
+pen
