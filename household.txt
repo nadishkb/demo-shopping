@@ -4,3 +4,5 @@ paste
 vadgam
 brush
 pen
+medicine 
+first aid box
