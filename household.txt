@@ -1,6 +1,9 @@
 soap
 powder
 paste
+choclate
+boomer
+icecream
 vadgam
 brush
 pen
