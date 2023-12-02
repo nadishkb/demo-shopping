@@ -4,3 +4,8 @@ paste
 choclate
 boomer
 icecream
+vadgam
+brush
+pen
+medicine 
+first aid box
